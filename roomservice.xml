@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+<!-- Samsung SM8350 Common Trees -->
+    <project name="samsung-sm8350/android_device_samsung_sm8350-common" path="device/samsung/sm8350-common" remote="github" revision="lineage-22" />
+    <project name="samsung-sm8350/android_kernel_samsung_sm8350" path="kernel/samsung/sm8350" remote="github" revision="lineage-22" />
+<!-- Dependencies -->
+    <project name="samsung-sm8350/android_device_qcom_common" path="device/qcom/common" remote="github" revision="lineage-22" />
+    <project name="samsung-sm8350/android_hardware_samsung" path="hardware/samsung" remote="github" revision="lineage-22.0" />
+<!-- Vendor Tree-->
+    <project name="samsung-sm8350/android_vendor_samsung" path="vendor/samsung" remote="github" revision="lineage-22" />
+<!-- Samsung Galaxy S21 FE (r9q) [SM-G990B] -->
+    <project name="samsung-sm8350/android_device_samsung_r9q" path="device/samsung/r9q" remote="github" revision="lineage-22" />
+</manifest>
